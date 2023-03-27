@@ -12,5 +12,6 @@ Customer Pick Ups. hassle-free pick up and return processes.
 Easy Payment Options. we offer a wide range of products including clothes,accessories,electronics etc.</i>
   <hr>
 <marquee bgcolor="yellow"><font color="green">ekart the quality shipping</font></marquee><hr>  
+
   </body>
 </html>
